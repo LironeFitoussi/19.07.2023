@@ -1,1 +1,1 @@
-contains basic HTML Exercises including Air Wiki Project
+Contains basic HTML Exercises including Air Wiki Project
